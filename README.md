@@ -1,7 +1,12 @@
-# CodingMitra 🤖💻  
-*Your Conversational AI Code Buddy*
+# 💻 CodeMitra – Your AI Code Buddy
 
 [![Deployed with Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://codingmitra-g8oanbdcqcijlqtg6spbbj.streamlit.app/)
+
+CodeMitra is your friendly neighborhood coding assistant built with 🧠 Google Gemini + ⚡ Streamlit.  
+It helps you analyze, explain, debug, and generate code naturally – like talking to a coding buddy.
+
+🚀 [Click here to try CodeMitra live!](https://codingmitra-g8oanbdcqcijlqtg6spbbj.streamlit.app/)
+
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)  
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)  
