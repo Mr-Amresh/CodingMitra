@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)  
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)  
 
-![CodingMitra Interface](screenshot.png) *(Add screenshot after deployment)*
+![CodingMitra Interface](CodingMitra.png) *(Add screenshot after deployment)*
 
 ## 🌟 Features
 - **Natural Language Processing** - Understands coding requests in plain English
