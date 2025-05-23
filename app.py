@@ -182,6 +182,6 @@ if __name__ == "__main__":
 with st.sidebar:
     st.markdown("---")
     st.markdown(
-        '<div class="footer">Built with Streamlit • Powered by Google Gemini<br>Developed by Amresh Yadav • maithilgeek@gmail.com</div>',
+        '<div class="footer">Built with Streamlit • Powered by Google Gemini<br>Developed by Amresh Yadav • maithiligeek@gmail.com</div>',
         unsafe_allow_html=True
     )
