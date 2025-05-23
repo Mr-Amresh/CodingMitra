@@ -1,7 +1,7 @@
 # CodingMitra 🤖💻  
 *Your Conversational AI Code Buddy*
 
-[![Deployed with Streamlit]([https://img.shields.io/badge/deployed%20with-vercel-black?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Deployed%20on-Streamlit-orange?style=for-the-badge&logo=streamlit)](https://<your-app-name>.streamlit.app))](https://codingmitra-g8oanbdcqcijlqtg6spbbj.streamlit.app/)  
+[![Deployed with Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://codingmitra-g8oanbdcqcijlqtg6spbbj.streamlit.app/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)  
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)  
 
